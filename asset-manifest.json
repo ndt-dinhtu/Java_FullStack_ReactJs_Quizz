@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Java_FullStack_ReactJs_Quizz/static/css/main.ee2956f3.css",
+    "main.js": "/Java_FullStack_ReactJs_Quizz/static/js/main.3bc62065.js",
+    "index.html": "/Java_FullStack_ReactJs_Quizz/index.html",
+    "main.ee2956f3.css.map": "/Java_FullStack_ReactJs_Quizz/static/css/main.ee2956f3.css.map",
+    "main.3bc62065.js.map": "/Java_FullStack_ReactJs_Quizz/static/js/main.3bc62065.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2956f3.css",
+    "static/js/main.3bc62065.js"
+  ]
+}
